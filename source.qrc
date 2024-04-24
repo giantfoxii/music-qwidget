@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/basketball.jpg</file>
+        <file>icon/black.jpg</file>
+        <file>icon/close.png</file>
+        <file>icon/icon_play.png</file>
+        <file>icon/last.png</file>
+        <file>icon/next.png</file>
+        <file>icon/play.png</file>
+        <file>icon/sun.png</file>
+        <file>icon/voice.png</file>
+        <file>icon/add_list.png</file>
+        <file>icon/huitailang.jpg</file>
+        <file>icon/listall.png</file>
+        <file>icon/loop.png</file>
+        <file>icon/random.png</file>
+        <file>icon/single_loop.png</file>
+        <file>icon/order.png</file>
+    </qresource>
+</RCC>
